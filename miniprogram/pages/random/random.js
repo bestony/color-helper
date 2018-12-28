@@ -81,6 +81,10 @@ Page({
    * 用户点击右上角分享
    */
   onShareAppMessage: function() {
-
+    return {
+      title: "用配色助手，只需1秒，就可以生成配色方案",
+      path: "pages/random/random",
+      imageUrl: "https://postimg.aliavv.com/201810/xk77q.png"
+    }
   }
 })

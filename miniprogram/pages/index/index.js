@@ -61,6 +61,10 @@ Page({
    * 用户点击右上角分享
    */
   onShareAppMessage: function () {
-
+    return {
+      title: "用配色助手，配色再也不是难事！",
+      path: "pages/index/index",
+      imageUrl: "https://postimg.aliavv.com/201810/xk77q.png"
+    }
   }
 })

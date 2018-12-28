@@ -26,7 +26,11 @@ Page({
    * 用户点击右上角分享
    */
   onShareAppMessage: function () {
-
+    return {
+      title:"配色助手颜色名快速查询真好用！",
+      path:"pages/color_name/color_name",
+      imageUrl:"https://postimg.aliavv.com/201810/xk77q.png"
+    }
   },
   getColor:function(event){
     let color = event.currentTarget.dataset.color;
