@@ -30,7 +30,7 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 4,
+			"current": 5,
 			"list": [
 				{
 					"id": -1,
@@ -61,6 +61,11 @@
 					"name": "中国色",
 					"pathName": "pages/zhongguose/zhongguose",
 					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "社交品牌色",
+					"pathName": "pages/social/social"
 				}
 			]
 		}
