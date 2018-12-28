@@ -1,0 +1,7 @@
+<view class='flow' bindtap='getColor'>
+  <block wx:for="{{color}}">
+    <view class="item" style='height:{{item_height}}px;background-color:#{{item}};'>
+      <text class="badge">#{{item}}</text>
+    </view>
+  </block>
+</view>

@@ -1,6 +1,6 @@
 <view class="navigator-group">
 
-<view class="navigator">随机色生成</view>
+<navigator url="../random/random"><view class="navigator">随机色生成</view></navigator>
 <navigator url="../color_name/color_name"><view class="navigator">常用颜色名</view></navigator>
 <!-- <view class="navigator">中国传统色</view> -->
 <!-- <view class="navigator">霓虹传统色</view> -->

@@ -2,7 +2,8 @@
   "pages": [
     "pages/index/index",
     "pages/about/about",
-    "pages/color_name/color_name"
+    "pages/color_name/color_name",
+    "pages/random/random"
   ],
   "window": {
     "backgroundColor": "#f8fafc",
