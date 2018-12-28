@@ -1,0 +1,10 @@
+.item{
+  line-height: 50rpx;
+  padding: 20px 20px; 
+  color: #111;
+}
+.hex{
+  font-size: 30rpx;
+  margin-left: 100rpx;
+  float: right;
+}
