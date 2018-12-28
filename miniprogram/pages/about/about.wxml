@@ -1,2 +1,9 @@
-<!--pages/about/about.wxml-->
-<text>pages/about/about.wxml</text>
+<view class="lead-area">
+  <text class="lead">配色助手</text>
+</view>
+<view class='desc-area'>
+  <text>配色助手，帮助你在手机上完成自己的配色任务。</text>
+</view>
+<view class='desc-area'>
+  <text class="small">如果你对配色助手有任何想法或建议，欢迎你加我的微信 ixiqin_com 反馈。</text>
+</view>

@@ -1,1 +1,19 @@
-/* pages/about/about.wxss */
+.lead-area{
+  line-height: 200rpx;
+  color:#666;
+  text-align: center;
+  background: #f6f9fc;
+}
+.lead{
+  font-size: 100rpx;
+}
+.desc-area{
+  margin: 0rpx 40rpx;
+  line-height: 60rpx;
+  text-align: justify;
+  letter-spacing: 0.025em;
+}
+.small{
+  margin-top:30rpx;
+  font-size: 30rpx;
+}
