@@ -1,0 +1,9 @@
+<view class="navigator-group">
+
+<view class="navigator">随机色生成</view>
+<view class="navigator">中国传统色</view>
+<view class="navigator">霓虹传统色</view>
+<view class="navigator">iOS 安全色</view>
+<view class="navigator">Material Design Color</view>
+<view class="navigator">关于</view>
+</view>

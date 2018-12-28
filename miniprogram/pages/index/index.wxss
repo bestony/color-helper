@@ -1,0 +1,22 @@
+.navigator-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.navigator {
+  color: #fff;
+  background: #7795f8;
+  text-shadow: 0 1rpx 3rpx #7795f8;
+  white-space: nowrap;
+  display: flex;
+  line-height: 130rpx;
+  padding: 0 50rpx;
+  margin: 15rpx 20rpx;
+  box-shadow: 0 4rpx 6rpx rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
+  border-radius: 10rpx;
+  font-size: 45rpx;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.025em;
+  text-align: center;
+}
