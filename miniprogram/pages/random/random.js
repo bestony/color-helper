@@ -1,6 +1,8 @@
 let generator = require('../../colors/random.js')
 let app = getApp();
 let transformer = require('../../utils/transformer.js')
+var mta = require('../../miniprogram_npm/mta-wechat-analysis/index.js');
+
 Page({
 
   /**
@@ -14,7 +16,7 @@ Page({
    * 生命周期函数--监听页面加载
    */
   onLoad: function(options) {
-
+    mta.Page.init()
     let color = generator.generateColor();
     delete color['id']
     let color_rgb = {

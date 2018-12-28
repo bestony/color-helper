@@ -1,5 +1,6 @@
+var mta = require('miniprogram_npm/mta-wechat-analysis/index.js');
 App({
-  onLaunch: function () {
+  onLaunch: function (options) {
     let systeminfo = wx.getSystemInfoSync();
 
     if (!wx.cloud) {
@@ -9,7 +10,14 @@ App({
         traceUser: true,
       })
     }
-
+    mta.App.init({
+      "appID": "500664522",
+      "eventID": "500664523",
+      "lauchOpts": options,
+      "statPullDownFresh": true,
+      "statShareApp": true,
+      "statReachBottom": true
+    });
     this.globalData = {
       height: systeminfo.windowHeight
     }

@@ -1,5 +1,6 @@
 let colorname = require('../../colors/color_name.js');
 let transformer = require('../../utils/transformer.js')
+var mta = require('../../miniprogram_npm/mta-wechat-analysis/index.js');
 Page({
 
   /**
@@ -11,6 +12,7 @@ Page({
 
 
   onLoad: function (options) {
+    mta.Page.init()
     this.setData({
       colors: colorname.data
     })
