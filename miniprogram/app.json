@@ -6,7 +6,8 @@
     "pages/random/random",
     "pages/mdcolor/mdcolor",
     "pages/zhongguose/zhongguose",
-    "pages/social/social"
+    "pages/social/social",
+    "pages/flatui/flatui"
   ],
   "window": {
     "backgroundColor": "#f8fafc",

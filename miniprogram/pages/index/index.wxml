@@ -5,7 +5,7 @@
 <navigator url="../zhongguose/zhongguose"><view class="navigator">中国传统色</view></navigator>
 <navigator url="../social/social"><view class="navigator">社交软件色</view></navigator>
 <navigator url="../mdcolor/mdcolor"><view class="navigator">Material Design Color</view></navigator>
-<view class="navigator">FlatUI Color</view>
+<navigator url="../flatui/flatui"><view class="navigator">FlatUI Color</view></navigator>
 <view class="navigator">FluentUI Color</view>
 <view class="navigator">Metro Color</view>
 <navigator url="../about/about"><view class="navigator">关于</view></navigator>

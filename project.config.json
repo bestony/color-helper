@@ -30,7 +30,7 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 5,
+			"current": 6,
 			"list": [
 				{
 					"id": -1,
@@ -65,7 +65,13 @@
 				{
 					"id": -1,
 					"name": "社交品牌色",
-					"pathName": "pages/social/social"
+					"pathName": "pages/social/social",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "FlatUI",
+					"pathName": "pages/flatui/flatui"
 				}
 			]
 		}
