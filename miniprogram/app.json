@@ -7,7 +7,8 @@
     "pages/mdcolor/mdcolor",
     "pages/zhongguose/zhongguose",
     "pages/social/social",
-    "pages/flatui/flatui"
+    "pages/flatui/flatui",
+    "pages/fluentui/fluentui"
   ],
   "window": {
     "backgroundColor": "#f8fafc",

@@ -99,7 +99,7 @@ Page({
   onShareAppMessage: function () {
     return {
       title: "用配色助手，看 FlatUI 精选色",
-      path: "pages/social/social",
+      path: "pages/flatui/flatui",
       imageUrl: "https://postimg.aliavv.com/201810/xk77q.png"
     }
   },
