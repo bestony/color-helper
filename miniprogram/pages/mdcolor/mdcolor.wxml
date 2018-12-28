@@ -1,0 +1,1064 @@
+<!-- White -->
+<view class="title">Black And White</view>
+<view class="item" style="background-color:#000;color:#fff;">
+  <text>black</text>
+  <text>#000000</text>
+</view>
+<view class="item" style="background-color:#fff;color:#000;">
+  <text>white</text>
+  <text>#FFFFFF</text>
+</view>
+<!-- Red -->
+<view class="title">Red</view>
+<view class="item" style="background-color:#FFEBEE;color:#000;">
+  <text>50</text>
+  <text>#FFEBEE</text>
+</view>
+<view class="item" style="background-color:#FFCDD2;color:#000;">
+  <text>100</text>
+  <text>#FFCDD2</text>
+</view>
+<view class="item" style="background-color:#EF9A9A;color:#000;">
+  <text>200</text>
+  <text>#EF9A9A</text>
+</view>
+<view class="item" style="background-color:#E57373;color:#000;">
+  <text>300</text>
+  <text>#E57373</text>
+</view>
+<view class="item" style="background-color:#EF5350;color:#fff;">
+  <text>400</text>
+  <text>#EF5350</text>
+</view>
+<view class="item" style="background-color:#F44336;color:#fff;">
+  <text>500</text>
+  <text>#F44336</text>
+</view>
+<view class="item" style="background-color:#E53935;color:#000;">
+  <text>600</text>
+  <text>#E53935</text>
+</view>
+<view class="item" style="background-color:#D32F2F;color:#fff;">
+  <text>700</text>
+  <text>#D32F2F</text>
+</view>
+<view class="item" style="background-color:#C62828;color:#fff;">
+  <text>800</text>
+  <text>#C62828</text>
+</view>
+<view class="item" style="background-color:#B71C1C;color:#fff;">
+  <text>900</text>
+  <text>#B71C1C</text>
+</view>
+<view class="item" style="background-color:#FF8A80;color:#000;">
+  <text>A100</text>
+  <text>#FF8A80</text>
+</view>
+<view class="item" style="background-color:#FF5252;color:#fff;">
+  <text>A200</text>
+  <text>#FF5252</text>
+</view>
+<view class="item" style="background-color:#FF1744;color:#fff;">
+  <text>A400</text>
+  <text>#FF1744</text>
+</view>
+<view class="item" style="background-color:#D50000;color:#fff;">
+  <text>A700</text>
+  <text>#D50000</text>
+</view>
+<!-- Pink -->
+<view class="title">Pink</view>
+<view class="item" style="background-color:#FCE4EC;color:#000;">
+  <text>50</text>
+  <text>#FCE4EC</text>
+</view>
+<view class="item" style="background-color:#F8BBD0;color:#000;">
+  <text>100</text>
+  <text>#F8BBD0</text>
+</view>
+<view class="item" style="background-color:#F48FB1;color:#000;">
+  <text>200</text>
+  <text>#F48FB1</text>
+</view>
+<view class="item" style="background-color:#F06292;color:#000;">
+  <text>300</text>
+  <text>#F06292</text>
+</view>
+<view class="item" style="background-color:#EC407A;color:#fff;">
+  <text>400</text>
+  <text>#EC407A</text>
+</view>
+<view class="item" style="background-color:#E91E63;color:#fff;">
+  <text>500</text>
+  <text>#E91E63</text>
+</view>
+<view class="item" style="background-color:#D81B60;color:#fff;">
+  <text>600</text>
+  <text>#D81B60</text>
+</view>
+<view class="item" style="background-color:#C2185B;color:#fff;">
+  <text>700</text>
+  <text>#C2185B</text>
+</view>
+<view class="item" style="background-color:#AD1457;color:#fff;">
+  <text>800</text>
+  <text>#AD1457</text>
+</view>
+<view class="item" style="background-color:#880E4F;color:#fff;">
+  <text>900</text>
+  <text>#880E4F</text>
+</view>
+<view class="item" style="background-color:#FF80AB;color:#000;">
+  <text>A100</text>
+  <text>#FF80AB</text>
+</view>
+<view class="item" style="background-color:#FF4081;color:#fff;">
+  <text>A200</text>
+  <text>#FF4081</text>
+</view>
+<view class="item" style="background-color:#F50057;color:#fff;">
+  <text>A400</text>
+  <text>#F50057</text>
+</view>
+<view class="item" style="background-color:#C51162;color:#fff;">
+  <text>A700</text>
+  <text>#C51162</text>
+</view>
+<!-- Purple -->
+<view class="title">Purple</view>
+<view class="item" style="background-color:#F3E5F5;color:#000;">
+  <text>50</text>
+  <text>#F3E5F5</text>
+</view>
+<view class="item" style="background-color:#E1BEE7;color:#000;">
+  <text>100</text>
+  <text>#E1BEE7</text>
+</view>
+<view class="item" style="background-color:#CE93D8;color:#000;">
+  <text>200</text>
+  <text>#CE93D8</text>
+</view>
+<view class="item" style="background-color:#BA68C8;color:#fff;">
+  <text>300</text>
+  <text>#BA68C8</text>
+</view>
+<view class="item" style="background-color:#AB47BC;color:#fff;">
+  <text>400</text>
+  <text>#AB47BC</text>
+</view>
+<view class="item" style="background-color:#9C27B0;color:#fff;">
+  <text>500</text>
+  <text>#9C27B0</text>
+</view>
+<view class="item" style="background-color:#8E24AA;color:#fff;">
+  <text>600</text>
+  <text>#8E24AA</text>
+</view>
+<view class="item" style="background-color:#7B1FA2;color:#fff;">
+  <text>700</text>
+  <text>#7B1FA2</text>
+</view>
+<view class="item" style="background-color:#6A1B9A;color:#fff;">
+  <text>800</text>
+  <text>#6A1B9A</text>
+</view>
+<view class="item" style="background-color:#4A148C;color:#fff;">
+  <text>900</text>
+  <text>#4A148C</text>
+</view>
+<view class="item" style="background-color:#EA80FC;color:#000;">
+  <text>A100</text>
+  <text>#EA80FC</text>
+</view>
+<view class="item" style="background-color:#E040FB;color:#fff;">
+  <text>A200</text>
+  <text>#E040FB</text>
+</view>
+<view class="item" style="background-color:#D500F9;color:#fff;">
+  <text>A400</text>
+  <text>#D500F9</text>
+</view>
+<view class="item" style="background-color:#AA00FF;color:#fff;">
+  <text>A700</text>
+  <text>#AA00FF</text>
+</view>
+<!-- Deep Purple -->
+<view class="title">Deep purple</view>
+<view class="item" style="background-color:#EDE7F6;color:#000;">
+  <text>50</text>
+  <text>#EDE7F6</text>
+</view>
+<view class="item" style="background-color:#D1C4E9;color:#000;">
+  <text>100</text>
+  <text>#D1C4E9</text>
+</view>
+<view class="item" style="background-color:#B39DDB;color:#000;">
+  <text>200</text>
+  <text>#B39DDB</text>
+</view>
+<view class="item" style="background-color:#9575CD;color:#fff;">
+  <text>300</text>
+  <text>#9575CD</text>
+</view>
+<view class="item" style="background-color:#7E57C2;color:#fff;">
+  <text>400</text>
+  <text>#7E57C2</text>
+</view>
+<view class="item" style="background-color:#673AB7;color:#fff;">
+  <text>500</text>
+  <text>#673AB7</text>
+</view>
+<view class="item" style="background-color:#5E35B1;color:#fff;">
+  <text>600</text>
+  <text>#5E35B1</text>
+</view>
+<view class="item" style="background-color:#512DA8;color:#fff;">
+  <text>700</text>
+  <text>#512DA8</text>
+</view>
+<view class="item" style="background-color:#4527A0;color:#fff;">
+  <text>800</text>
+  <text>#4527A0</text>
+</view>
+<view class="item" style="background-color:#311B92;color:#000;">
+  <text>900</text>
+  <text>#311B92</text>
+</view>
+<view class="item" style="background-color:#B388FF;color:#000;">
+  <text>A100</text>
+  <text>#B388FF</text>
+</view>
+<view class="item" style="background-color:#7C4DFF;color:#fff;">
+  <text>A200</text>
+  <text>#7C4DFF</text>
+</view>
+<view class="item" style="background-color:#651FFF;color:#fff;">
+  <text>A400</text>
+  <text>#651FFF</text>
+</view>
+<view class="item" style="background-color:#6200EA;color:#fff;">
+  <text>A700</text>
+  <text>#6200EA</text>
+</view>
+<!-- Indigo -->
+<view class="title">Indigo</view>
+<view class="item" style="background-color:#E8EAF6;color:#000;">
+  <text>50</text>
+  <text>#E8EAF6</text>
+</view>
+<view class="item" style="background-color:#C5CAE9;color:#000;">
+  <text>100</text>
+  <text>#C5CAE9</text>
+</view>
+<view class="item" style="background-color:#9FA8DA;color:#000;">
+  <text>200</text>
+  <text>#9FA8DA</text>
+</view>
+<view class="item" style="background-color:#7986CB;color:#fff;">
+  <text>300</text>
+  <text>#7986CB</text>
+</view>
+<view class="item" style="background-color:#5C6BC0;color:#fff;">
+  <text>400</text>
+  <text>#5C6BC0</text>
+</view>
+<view class="item" style="background-color:#3F51B5;color:#fff;">
+  <text>500</text>
+  <text>#3F51B5</text>
+</view>
+<view class="item" style="background-color:#3949AB;color:#fff;">
+  <text>600</text>
+  <text>#3949AB</text>
+</view>
+<view class="item" style="background-color:#303F9F;color:#fff;">
+  <text>700</text>
+  <text>#303F9F</text>
+</view>
+<view class="item" style="background-color:#283593;color:#fff;">
+  <text>800</text>
+  <text>#283593</text>
+</view>
+<view class="item" style="background-color:#1A237E;color:#fff;">
+  <text>900</text>
+  <text>#1A237E</text>
+</view>
+<view class="item" style="background-color:#8C9EFF;color:#000;">
+  <text>A100</text>
+  <text>#8C9EFF</text>
+</view>
+<view class="item" style="background-color:#536DFE;color:#fff;">
+  <text>A200</text>
+  <text>#536DFE</text>
+</view>
+<view class="item" style="background-color:#3D5AFE;color:#fff;">
+  <text>A400</text>
+  <text>#3D5AFE</text>
+</view>
+<view class="item" style="background-color:#304FFE;color:#fff;">
+  <text>A700</text>
+  <text>#304FFE</text>
+</view>
+<!-- Blue -->
+<view class="title">Blue</view>
+<view class="item" style="background-color:#E3F2FD;color:#000;">
+  <text>50</text>
+  <text>#E3F2FD</text>
+</view>
+<view class="item" style="background-color:#BBDEFB;color:#000;">
+  <text>100</text>
+  <text>#BBDEFB</text>
+</view>
+<view class="item" style="background-color:#90CAF9;color:#000;">
+  <text>200</text>
+  <text>#90CAF9</text>
+</view>
+<view class="item" style="background-color:#64B5F6;color:#000;">
+  <text>300</text>
+  <text>#64B5F6</text>
+</view>
+<view class="item" style="background-color:#42A5F5;color:#000;">
+  <text>400</text>
+  <text>#42A5F5</text>
+</view>
+<view class="item" style="background-color:#2196F3;color:#000;">
+  <text>500</text>
+  <text>#2196F3</text>
+</view>
+<view class="item" style="background-color:#1E88E5;color:#fff;">
+  <text>600</text>
+  <text>#1E88E5</text>
+</view>
+<view class="item" style="background-color:#1976D2;color:#fff;">
+  <text>700</text>
+  <text>#1976D2</text>
+</view>
+<view class="item" style="background-color:#1565C0;color:#fff;">
+  <text>800</text>
+  <text>#1565C0</text>
+</view>
+<view class="item" style="background-color:#0D47A1;color:#fff;">
+  <text>900</text>
+  <text>#0D47A1</text>
+</view>
+<view class="item" style="background-color:#82B1FF;color:#000;">
+  <text>A100</text>
+  <text>#82B1FF</text>
+</view>
+<view class="item" style="background-color:#448AFF;color:#fff;">
+  <text>A200</text>
+  <text>#448AFF</text>
+</view>
+<view class="item" style="background-color:#2979FF;color:#fff;">
+  <text>A400</text>
+  <text>#2979FF</text>
+</view>
+<view class="item" style="background-color:#2962FF;color:#fff;">
+  <text>A700</text>
+  <text>#2962FF</text>
+</view>
+<!-- Light Blue -->
+<view class="title">Light Blue</view>
+<view class="item" style="background-color:#E1F5FE;color:#000;">
+  <text>50</text>
+  <text>#E1F5FE</text>
+</view>
+<view class="item" style="background-color:#B3E5FC;color:#000;">
+  <text>100</text>
+  <text>#B3E5FC</text>
+</view>
+<view class="item" style="background-color:#81D4FA;color:#000;">
+  <text>200</text>
+  <text>#81D4FA</text>
+</view>
+<view class="item" style="background-color:#4FC3F7;color:#000;">
+  <text>300</text>
+  <text>#4FC3F7</text>
+</view>
+<view class="item" style="background-color:#29B6F6;color:#000;">
+  <text>400</text>
+  <text>#29B6F6</text>
+</view>
+<view class="item" style="background-color:#03A9F4;color:#000;">
+  <text>500</text>
+  <text>#03A9F4</text>
+</view>
+<view class="item" style="background-color:#039BE5;color:#000;">
+  <text>600</text>
+  <text>#039BE5</text>
+</view>
+<view class="item" style="background-color:#0288D1;color:#fff;">
+  <text>700</text>
+  <text>#0288D1</text>
+</view>
+<view class="item" style="background-color:#0277BD;color:#fff;">
+  <text>800</text>
+  <text>#0277BD</text>
+</view>
+<view class="item" style="background-color:#01579B;color:#fff;">
+  <text>900</text>
+  <text>#01579B</text>
+</view>
+<view class="item" style="background-color:#80D8FF;color:#000;">
+  <text>A100</text>
+  <text>#80D8FF</text>
+</view>
+<view class="item" style="background-color:#40C4FF;color:#000;">
+  <text>A200</text>
+  <text>#40C4FF</text>
+</view>
+<view class="item" style="background-color:#00B0FF;color:#000;">
+  <text>A400</text>
+  <text>#00B0FF</text>
+</view>
+<view class="item" style="background-color:#0091EA;color:#fff;">
+  <text>A700</text>
+  <text>#0091EA</text>
+</view>
+<!-- Cyan -->
+<view class="title">Cyan</view>
+<view class="item" style="background-color:#E0F7FA;color:#000;">
+  <text>50</text>
+  <text>#E0F7FA</text>
+</view>
+<view class="item" style="background-color:#B2EBF2;color:#000;">
+  <text>100</text>
+  <text>#B2EBF2</text>
+</view>
+<view class="item" style="background-color:#80DEEA;color:#000;">
+  <text>200</text>
+  <text>#80DEEA</text>
+</view>
+<view class="item" style="background-color:#4DD0E1;color:#000;">
+  <text>300</text>
+  <text>#4DD0E1</text>
+</view>
+<view class="item" style="background-color:#26C6DA;color:#000;">
+  <text>400</text>
+  <text>#26C6DA</text>
+</view>
+<view class="item" style="background-color:#00BCD4;color:#000;">
+  <text>500</text>
+  <text>#00BCD4</text>
+</view>
+<view class="item" style="background-color:#00ACC1;color:#000;">
+  <text>600</text>
+  <text>#00ACC1</text>
+</view>
+<view class="item" style="background-color:#0097A7;color:#fff;">
+  <text>700</text>
+  <text>#0097A7</text>
+</view>
+<view class="item" style="background-color:#00838F;color:#fff;">
+  <text>800</text>
+  <text>#00838F</text>
+</view>
+<view class="item" style="background-color:#006064;color:#fff;">
+  <text>900</text>
+  <text>#006064</text>
+</view>
+<view class="item" style="background-color:#84FFFF;color:#000;">
+  <text>A100</text>
+  <text>#84FFFF</text>
+</view>
+<view class="item" style="background-color:#18FFFF;color:#000;">
+  <text>A200</text>
+  <text>#18FFFF</text>
+</view>
+<view class="item" style="background-color:#00E5FF;color:#000;">
+  <text>A400</text>
+  <text>#00E5FF</text>
+</view>
+<view class="item" style="background-color:#00B8D4;color:#000;">
+  <text>A700</text>
+  <text>#00B8D4</text>
+</view>
+<!-- Teal -->
+<view class="title">Teal</view>
+<view class="item" style="background-color:#E0F2F1;color:#000;">
+  <text>50</text>
+  <text>#E0F2F1</text>
+</view>
+<view class="item" style="background-color:#B2DFDB;color:#000;">
+  <text>100</text>
+  <text>#B2DFDB</text>
+</view>
+<view class="item" style="background-color:#80CBC4;color:#000;">
+  <text>200</text>
+  <text>#80CBC4</text>
+</view>
+<view class="item" style="background-color:#4DB6AC;color:#000;">
+  <text>300</text>
+  <text>#4DB6AC</text>
+</view>
+<view class="item" style="background-color:#26A69A;color:#000;">
+  <text>400</text>
+  <text>#26A69A</text>
+</view>
+<view class="item" style="background-color:#009688;color:#000;">
+  <text>500</text>
+  <text>#009688</text>
+</view>
+<view class="item" style="background-color:#00897B;color:#000;">
+  <text>600</text>
+  <text>#00897B</text>
+</view>
+<view class="item" style="background-color:#00796B;color:#fff;">
+  <text>700</text>
+  <text>#00796B</text>
+</view>
+<view class="item" style="background-color:#00695C;color:#fff;">
+  <text>800</text>
+  <text>#00695C</text>
+</view>
+<view class="item" style="background-color:#004D40;color:#fff;">
+  <text>900</text>
+  <text>#004D40</text>
+</view>
+<view class="item" style="background-color:#A7FFEB;color:#000;">
+  <text>A100</text>
+  <text>#A7FFEB</text>
+</view>
+<view class="item" style="background-color:#64FFDA;color:#000;">
+  <text>A200</text>
+  <text>#64FFDA</text>
+</view>
+<view class="item" style="background-color:#1DE9B6;color:#000;">
+  <text>A400</text>
+  <text>#1DE9B6</text>
+</view>
+<view class="item" style="background-color:#00BFA5;color:#000;">
+  <text>A700</text>
+  <text>#00BFA5</text>
+</view>
+<!-- Green -->
+<view class="title">Green</view>
+<view class="item" style="background-color:#E8F5E9;color:#000;">
+  <text>50</text>
+  <text>#E8F5E9</text>
+</view>
+<view class="item" style="background-color:#C8E6C9;color:#000;">
+  <text>100</text>
+  <text>#C8E6C9</text>
+</view>
+<view class="item" style="background-color:#A5D6A7;color:#000;">
+  <text>200</text>
+  <text>#A5D6A7</text>
+</view>
+<view class="item" style="background-color:#81C784;color:#000;">
+  <text>300</text>
+  <text>#81C784</text>
+</view>
+<view class="item" style="background-color:#66BB6A;color:#000;">
+  <text>400</text>
+  <text>#66BB6A</text>
+</view>
+<view class="item" style="background-color:#4CAF50;color:#000;">
+  <text>500</text>
+  <text>#4CAF50</text>
+</view>
+<view class="item" style="background-color:#43A047;color:#fff;">
+  <text>600</text>
+  <text>#43A047</text>
+</view>
+<view class="item" style="background-color:#388E3C;color:#fff;">
+  <text>700</text>
+  <text>#388E3C</text>
+</view>
+<view class="item" style="background-color:#2E7D32;color:#fff;">
+  <text>800</text>
+  <text>#2E7D32</text>
+</view>
+<view class="item" style="background-color:#1B5E20;color:#fff;">
+  <text>900</text>
+  <text>#1B5E20</text>
+</view>
+<view class="item" style="background-color:#B9F6CA;color:#000;">
+  <text>A100</text>
+  <text>#B9F6CA</text>
+</view>
+<view class="item" style="background-color:#69F0AE;color:#000;">
+  <text>A200</text>
+  <text>#69F0AE</text>
+</view>
+<view class="item" style="background-color:#00E676;color:#000;">
+  <text>A400</text>
+  <text>#00E676</text>
+</view>
+<view class="item" style="background-color:#00C853;color:#000;">
+  <text>A700</text>
+  <text>#00C853</text>
+</view>
+<!-- Light Green -->
+<view class="title">Light Green</view>
+<view class="item" style="background-color:#F1F8E9;color:#000;">
+  <text>50</text>
+  <text>#F1F8E9</text>
+</view>
+<view class="item" style="background-color:#DCEDC8;color:#000;">
+  <text>100</text>
+  <text>#DCEDC8</text>
+</view>
+<view class="item" style="background-color:#C5E1A5;color:#000;">
+  <text>200</text>
+  <text>#C5E1A5</text>
+</view>
+<view class="item" style="background-color:#AED581;color:#000;">
+  <text>300</text>
+  <text>#AED581</text>
+</view>
+<view class="item" style="background-color:#9CCC65;color:#000;">
+  <text>400</text>
+  <text>#9CCC65</text>
+</view>
+<view class="item" style="background-color:#8BC34A;color:#000;">
+  <text>500</text>
+  <text>#8BC34A</text>
+</view>
+<view class="item" style="background-color:#7CB342;color:#000;">
+  <text>600</text>
+  <text>#7CB342</text>
+</view>
+<view class="item" style="background-color:#689F38;color:#000;">
+  <text>700</text>
+  <text>#689F38</text>
+</view>
+<view class="item" style="background-color:#558B2F;color:#fff;">
+  <text>800</text>
+  <text>#558B2F</text>
+</view>
+<view class="item" style="background-color:#33691E;color:#fff;">
+  <text>900</text>
+  <text>#33691E</text>
+</view>
+<view class="item" style="background-color:#CCFF90;color:#000;">
+  <text>A100</text>
+  <text>#CCFF90</text>
+</view>
+<view class="item" style="background-color:#B2FF59;color:#000;">
+  <text>A200</text>
+  <text>#B2FF59</text>
+</view>
+<view class="item" style="background-color:#76FF03;color:#000;">
+  <text>A400</text>
+  <text>#76FF03</text>
+</view>
+<view class="item" style="background-color:#64DD17;color:#000;">
+  <text>A700</text>
+  <text>#64DD17</text>
+</view>
+<!-- Lime -->
+<view class="title">Lime</view>
+<view class="item" style="background-color:#F9FBE7;color:#000;">
+  <text>50</text>
+  <text>#F9FBE7</text>
+</view>
+<view class="item" style="background-color:#F0F4C3;color:#000;">
+  <text>100</text>
+  <text>#F0F4C3</text>
+</view>
+<view class="item" style="background-color:#E6EE9C;color:#000;">
+  <text>200</text>
+  <text>#E6EE9C</text>
+</view>
+<view class="item" style="background-color:#DCE775;color:#000;">
+  <text>300</text>
+  <text>#DCE775</text>
+</view>
+<view class="item" style="background-color:#D4E157;color:#000;">
+  <text>400</text>
+  <text>#D4E157</text>
+</view>
+<view class="item" style="background-color:#CDDC39;color:#000;">
+  <text>500</text>
+  <text>#CDDC39</text>
+</view>
+<view class="item" style="background-color:#C0CA33;color:#000;">
+  <text>600</text>
+  <text>#C0CA33</text>
+</view>
+<view class="item" style="background-color:#AFB42B;color:#000;">
+  <text>700</text>
+  <text>#AFB42B</text>
+</view>
+<view class="item" style="background-color:#9E9D24;color:#000;">
+  <text>800</text>
+  <text>#9E9D24</text>
+</view>
+<view class="item" style="background-color:#827717;color:#fff;">
+  <text>900</text>
+  <text>#827717</text>
+</view>
+<view class="item" style="background-color:#F4FF81;color:#000;">
+  <text>A100</text>
+  <text>#F4FF81</text>
+</view>
+<view class="item" style="background-color:#EEFF41;color:#000;">
+  <text>A200</text>
+  <text>#EEFF41</text>
+</view>
+<view class="item" style="background-color:#C6FF00;color:#000;">
+  <text>A400</text>
+  <text>#C6FF00</text>
+</view>
+<view class="item" style="background-color:#AEEA00;color:#000;">
+  <text>A700</text>
+  <text>#AEEA00</text>
+</view>
+<!-- Yellow -->
+<view class="title">Yellow</view>
+<view class="item" style="background-color:#FFFDE7;color:#000;">
+  <text>50</text>
+  <text>#FFFDE7</text>
+</view>
+<view class="item" style="background-color:#FFF9C4;color:#000;">
+  <text>100</text>
+  <text>#FFF9C4</text>
+</view>
+<view class="item" style="background-color:#FFF59D;color:#000;">
+  <text>200</text>
+  <text>#FFF59D</text>
+</view>
+<view class="item" style="background-color:#FFF176;color:#000;">
+  <text>300</text>
+  <text>#FFF176</text>
+</view>
+<view class="item" style="background-color:#FFEE58;color:#000;">
+  <text>400</text>
+  <text>#FFEE58</text>
+</view>
+<view class="item" style="background-color:#FFEB3B;color:#000;">
+  <text>500</text>
+  <text>#FFEB3B</text>
+</view>
+<view class="item" style="background-color:#FDD835;color:#000;">
+  <text>600</text>
+  <text>#FDD835</text>
+</view>
+<view class="item" style="background-color:#FBC02D;color:#000;">
+  <text>700</text>
+  <text>#FBC02D</text>
+</view>
+<view class="item" style="background-color:#F9A825;color:#000;">
+  <text>800</text>
+  <text>#F9A825</text>
+</view>
+<view class="item" style="background-color:#F57F17;color:#fff;">
+  <text>900</text>
+  <text>#F57F17</text>
+</view>
+<view class="item" style="background-color:#FFFF8D;color:#000;">
+  <text>A100</text>
+  <text>#FFFF8D</text>
+</view>
+<view class="item" style="background-color:#FFFF00;color:#000;">
+  <text>A200</text>
+  <text>#FFFF00</text>
+</view>
+<view class="item" style="background-color:#FFEA00;color:#000;">
+  <text>A400</text>
+  <text>#FFEA00</text>
+</view>
+<view class="item" style="background-color:#FFD600;color:#000;">
+  <text>A700</text>
+  <text>#FFD600</text>
+</view>
+<!-- Amber -->
+<view class="title">Amber</view>
+<view class="item" style="background-color:#FFF8E1;color:#000;">
+  <text>50</text>
+  <text>#FFF8E1</text>
+</view>
+<view class="item" style="background-color:#FFECB3;color:#000;">
+  <text>100</text>
+  <text>#FFECB3</text>
+</view>
+<view class="item" style="background-color:#FFE082;color:#000;">
+  <text>200</text>
+  <text>#FFE082</text>
+</view>
+<view class="item" style="background-color:#FFD54F;color:#000;">
+  <text>300</text>
+  <text>#FFD54F</text>
+</view>
+<view class="item" style="background-color:#FFCA28;color:#000;">
+  <text>400</text>
+  <text>#FFCA28</text>
+</view>
+<view class="item" style="background-color:#FFC107;color:#000;">
+  <text>500</text>
+  <text>#FFC107</text>
+</view>
+<view class="item" style="background-color:#FFB300;color:#000;">
+  <text>600</text>
+  <text>#FFB300</text>
+</view>
+<view class="item" style="background-color:#FFA000;color:#000;">
+  <text>700</text>
+  <text>#FFA000</text>
+</view>
+<view class="item" style="background-color:#FF8F00;color:#000;">
+  <text>800</text>
+  <text>#FF8F00</text>
+</view>
+<view class="item" style="background-color:#FF6F00;color:#fff;">
+  <text>900</text>
+  <text>#FF6F00</text>
+</view>
+<view class="item" style="background-color:#FFE57F;color:#000;">
+  <text>A100</text>
+  <text>#FFE57F</text>
+</view>
+<view class="item" style="background-color:#FFD740;color:#000;">
+  <text>A200</text>
+  <text>#FFD740</text>
+</view>
+<view class="item" style="background-color:#FFC400;color:#000;">
+  <text>A400</text>
+  <text>#FFC400</text>
+</view>
+<view class="item" style="background-color:#FFAB00;color:#000;">
+  <text>A700</text>
+  <text>#FFAB00</text>
+</view>
+<!-- Orange -->
+<view class="title">Orange</view>
+<view class="item" style="background-color:#FFF3E0;color:#000;">
+  <text>50</text>
+  <text>#FFF3E0</text>
+</view>
+<view class="item" style="background-color:#FFE0B2;color:#000;">
+  <text>100</text>
+  <text>#FFE0B2</text>
+</view>
+<view class="item" style="background-color:#FFCC80;color:#000;">
+  <text>200</text>
+  <text>#FFCC80</text>
+</view>
+<view class="item" style="background-color:#FFB74D;color:#000;">
+  <text>300</text>
+  <text>#FFB74D</text>
+</view>
+<view class="item" style="background-color:#FFA726;color:#000;">
+  <text>400</text>
+  <text>#FFA726</text>
+</view>
+<view class="item" style="background-color:#FF9800;color:#000;">
+  <text>500</text>
+  <text>#FF9800</text>
+</view>
+<view class="item" style="background-color:#FB8C00;color:#000;">
+  <text>600</text>
+  <text>#FB8C00</text>
+</view>
+<view class="item" style="background-color:#F57C00;color:#000;">
+  <text>700</text>
+  <text>#F57C00</text>
+</view>
+<view class="item" style="background-color:#EF6C00;color:#000;">
+  <text>800</text>
+  <text>#EF6C00</text>
+</view>
+<view class="item" style="background-color:#E65100;color:#fff;">
+  <text>900</text>
+  <text>#E65100</text>
+</view>
+<view class="item" style="background-color:#FFD180;color:#000;">
+  <text>A100</text>
+  <text>#FFD180</text>
+</view>
+<view class="item" style="background-color:#FFAB40;color:#000;">
+  <text>A200</text>
+  <text>#FFAB40</text>
+</view>
+<view class="item" style="background-color:#FF9100;color:#000;">
+  <text>A400</text>
+  <text>#FF9100</text>
+</view>
+<view class="item" style="background-color:#FF6D00;color:#000;">
+  <text>A700</text>
+  <text>#FF6D00</text>
+</view>
+<!-- Deep Orange -->
+<view class="title">Deep Orange</view>
+<view class="item" style="background-color:#FBE9E7;color:#000;">
+  <text>50</text>
+  <text>#FBE9E7</text>
+</view>
+<view class="item" style="background-color:#FFE0B2;color:#000;">
+  <text>100</text>
+  <text>#FFE0B2</text>
+</view>
+<view class="item" style="background-color:#FFAB91;color:#000;">
+  <text>200</text>
+  <text>#FFAB91</text>
+</view>
+<view class="item" style="background-color:#FF8A65;color:#000;">
+  <text>300</text>
+  <text>#FF8A65</text>
+</view>
+<view class="item" style="background-color:#FF7043;color:#000;">
+  <text>400</text>
+  <text>#FF7043</text>
+</view>
+<view class="item" style="background-color:#FF5722;color:#000;">
+  <text>500</text>
+  <text>#FF5722</text>
+</view>
+<view class="item" style="background-color:#F4511E;color:#fff;">
+  <text>600</text>
+  <text>#F4511E</text>
+</view>
+<view class="item" style="background-color:#E64A19;color:#fff;">
+  <text>700</text>
+  <text>#E64A19</text>
+</view>
+<view class="item" style="background-color:#D84315;color:#fff;">
+  <text>800</text>
+  <text>#D84315</text>
+</view>
+<view class="item" style="background-color:#BF360C;color:#fff;">
+  <text>900</text>
+  <text>#BF360C</text>
+</view>
+<view class="item" style="background-color:#FF9E80;color:#000;">
+  <text>A100</text>
+  <text>#FF9E80</text>
+</view>
+<view class="item" style="background-color:#FF6E40;color:#000;">
+  <text>A200</text>
+  <text>#FF6E40</text>
+</view>
+<view class="item" style="background-color:#FF3D00;color:#fff;">
+  <text>A400</text>
+  <text>#FF3D00</text>
+</view>
+<view class="item" style="background-color:#DD2C00;color:#FF8F00;">
+  <text>A700</text>
+  <text>#DD2C00</text>
+</view>
+<!-- Brown -->
+<view class="title">Brown</view>
+<view class="item" style="background-color:#EFEBE9;color:#000;">
+  <text>50</text>
+  <text>#EFEBE9</text>
+</view>
+<view class="item" style="background-color:#D7CCC8;color:#000;">
+  <text>100</text>
+  <text>#D7CCC8</text>
+</view>
+<view class="item" style="background-color:#BCAAA4;color:#000;">
+  <text>200</text>
+  <text>#BCAAA4</text>
+</view>
+<view class="item" style="background-color:#A1887F;color:#fff;">
+  <text>300</text>
+  <text>#A1887F</text>
+</view>
+<view class="item" style="background-color:#8D6E63;color:#fff;">
+  <text>400</text>
+  <text>#8D6E63</text>
+</view>
+<view class="item" style="background-color:#FF5722;color:#fff;">
+  <text>500</text>
+  <text>#795548</text>
+</view>
+<view class="item" style="background-color:#6D4C41;color:#fff;">
+  <text>600</text>
+  <text>#6D4C41</text>
+</view>
+<view class="item" style="background-color:#5D4037;color:#fff;">
+  <text>700</text>
+  <text>#5D4037</text>
+</view>
+<view class="item" style="background-color:#4E342E;color:#fff;">
+  <text>800</text>
+  <text>#4E342E</text>
+</view>
+<view class="item" style="background-color:#3E2723;color:#fff;">
+  <text>900</text>
+  <text>#3E2723</text>
+</view>
+<!-- Gray -->
+<view class="title">Gray</view>
+<view class="item" style="background-color:#FAFAFA;color:#000;">
+  <text>50</text>
+  <text>#FAFAFA</text>
+</view>
+<view class="item" style="background-color:#F5F5F5;color:#000;">
+  <text>100</text>
+  <text>#F5F5F5</text>
+</view>
+<view class="item" style="background-color:#EEEEEE;color:#000;">
+  <text>200</text>
+  <text>#EEEEEE</text>
+</view>
+<view class="item" style="background-color:#E0E0E0;color:#000;">
+  <text>300</text>
+  <text>#E0E0E0</text>
+</view>
+<view class="item" style="background-color:#BDBDBD;color:#000;">
+  <text>400</text>
+  <text>#BDBDBD</text>
+</view>
+<view class="item" style="background-color:#9E9E9E;color:#000;">
+  <text>500</text>
+  <text>#9E9E9E</text>
+</view>
+<view class="item" style="background-color:#757575;color:#fff;">
+  <text>600</text>
+  <text>#757575</text>
+</view>
+<view class="item" style="background-color:#616161;color:#fff;">
+  <text>700</text>
+  <text>#616161</text>
+</view>
+<view class="item" style="background-color:#424242;color:#fff;">
+  <text>800</text>
+  <text>#424242</text>
+</view>
+<view class="item" style="background-color:#212121;color:#fff;">
+  <text>900</text>
+  <text>#212121</text>
+</view>
+<!-- Blue Gray -->
+<view class="title">Blue Gray</view>
+<view class="item" style="background-color:#ECEFF1;color:#000;">
+  <text>50</text>
+  <text>#ECEFF1</text>
+</view>
+<view class="item" style="background-color:#CFD8DC;color:#000;">
+  <text>100</text>
+  <text>#CFD8DC</text>
+</view>
+<view class="item" style="background-color:#B0BEC5;color:#000;">
+  <text>200</text>
+  <text>#B0BEC5</text>
+</view>
+<view class="item" style="background-color:#90A4AE;color:#fff;">
+  <text>300</text>
+  <text>#90A4AE</text>
+</view>
+<view class="item" style="background-color:#78909C;color:#fff;">
+  <text>400</text>
+  <text>#78909C</text>
+</view>
+<view class="item" style="background-color:#607D8B;color:#fff;">
+  <text>500</text>
+  <text>#607D8B</text>
+</view>
+<view class="item" style="background-color:#546E7A;color:#fff;">
+  <text>600</text>
+  <text>#546E7A</text>
+</view>
+<view class="item" style="background-color:#455A64;color:#fff;">
+  <text>700</text>
+  <text>#455A64</text>
+</view>
+<view class="item" style="background-color:#37474F;color:#fff;">
+  <text>800</text>
+  <text>#37474F</text>
+</view>
+<view class="item" style="background-color:#263238;color:#fff;">
+  <text>900</text>
+  <text>#263238</text>
+</view>

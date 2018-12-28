@@ -5,7 +5,7 @@
 <!-- <view class="navigator">中国传统色</view> -->
 <!-- <view class="navigator">霓虹传统色</view> -->
 <!-- <view class="navigator">Web 安全色</view> -->
-<!-- <view class="navigator">Material Design Color</view> -->
+<navigator url="../mdcolor/mdcolor"><view class="navigator">Material Design Color</view></navigator>
 <navigator url="../about/about"><view class="navigator">关于</view></navigator>
 </view>
 <ad unit-id="adunit-8c87f826a074358c"></ad>
