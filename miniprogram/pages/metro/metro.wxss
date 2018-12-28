@@ -1,0 +1,10 @@
+.flow{
+  display: flex;
+  flex-direction: column;
+}
+.item{
+  display: flex;
+  justify-content: center;
+  color: #fff;
+  padding:50px;
+}

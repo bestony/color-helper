@@ -1,0 +1,7 @@
+<view class="flow">
+  <block wx:for="{{colors}}">
+    <view class="item" bindtap='getColor' style='background-color:{{item.hex}}' data-name="{{item.name}}" data-hex="{{item.hex}}">
+      <text>{{item.name}}</text>
+    </view>
+  </block>
+</view>

@@ -8,7 +8,8 @@
     "pages/zhongguose/zhongguose",
     "pages/social/social",
     "pages/flatui/flatui",
-    "pages/fluentui/fluentui"
+    "pages/fluentui/fluentui",
+    "pages/metro/metro"
   ],
   "window": {
     "backgroundColor": "#f8fafc",

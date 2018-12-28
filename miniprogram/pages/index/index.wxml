@@ -7,7 +7,7 @@
 <navigator url="../mdcolor/mdcolor"><view class="navigator">Material Design Color</view></navigator>
 <navigator url="../flatui/flatui"><view class="navigator">FlatUI Color</view></navigator>
 <navigator url="../fluentui/fluentui"><view class="navigator">FluentUI Color</view></navigator>
-<view class="navigator">Metro Color</view>
+<navigator url="../metro/metro"><view class="navigator">Metro Color</view></navigator>
 <navigator url="../about/about"><view class="navigator">关于</view></navigator>
 </view>
 <ad unit-id="adunit-8c87f826a074358c"></ad>
