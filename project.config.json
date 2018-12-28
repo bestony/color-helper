@@ -28,7 +28,7 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 3,
+			"current": 4,
 			"list": [
 				{
 					"id": -1,
@@ -52,6 +52,12 @@
 					"id": -1,
 					"name": "MD Color",
 					"pathName": "pages/mdcolor/mdcolor",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "中国色",
+					"pathName": "pages/zhongguose/zhongguose",
 					"query": ""
 				}
 			]

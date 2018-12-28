@@ -4,7 +4,8 @@
     "pages/about/about",
     "pages/color_name/color_name",
     "pages/random/random",
-    "pages/mdcolor/mdcolor"
+    "pages/mdcolor/mdcolor",
+    "pages/zhongguose/zhongguose"
   ],
   "window": {
     "backgroundColor": "#f8fafc",

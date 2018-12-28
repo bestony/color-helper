@@ -1,0 +1,13 @@
+.flow{
+  display: flex;
+  flex-direction: column;
+}
+.item{
+  display: flex;
+  flex-direction: row;
+  padding: 50rpx;
+  line-height: 100rpx;
+  text-transform:uppercase;
+  border-bottom: 1px solid #fff;
+  justify-content: space-between;
+}
