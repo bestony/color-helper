@@ -9,7 +9,8 @@
     "pages/social/social",
     "pages/flatui/flatui",
     "pages/fluentui/fluentui",
-    "pages/metro/metro"
+    "pages/metro/metro",
+    "pages/picker/picker"
   ],
   "window": {
     "backgroundColor": "#f8fafc",

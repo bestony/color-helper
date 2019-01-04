@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "color-picker": "/components/color-picker/color-picker"
+  },
+  "navigationBarTitleText": "Color Picker",
+  "disableScroll":true
+}

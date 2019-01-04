@@ -4,7 +4,7 @@ var __DEFINE__ = function(modId, func, req) { var m = { exports: {} }; __MODS__[
 var __REQUIRE__ = function(modId, source) { if(!__MODS__[modId]) return require(source); if(!__MODS__[modId].status) { var m = { exports: {} }; __MODS__[modId].status = 1; __MODS__[modId].func(__MODS__[modId].req, m, m.exports); if(typeof m.exports === "object") { Object.keys(m.exports).forEach(function(k) { __MODS__[modId].m.exports[k] = m.exports[k]; }); if(m.exports.__esModule) Object.defineProperty(__MODS__[modId].m.exports, "__esModule", { value: true }); } else { __MODS__[modId].m.exports = m.exports; } } return __MODS__[modId].m.exports; };
 var __REQUIRE_WILDCARD__ = function(obj) { if(obj && obj.__esModule) { return obj; } else { var newObj = {}; if(obj != null) { for(var k in obj) { if (Object.prototype.hasOwnProperty.call(obj, k)) newObj[k] = obj[k]; } } newObj.default = obj; return newObj; } };
 var __REQUIRE_DEFAULT__ = function(obj) { return obj && obj.__esModule ? obj.default : obj; };
-__DEFINE__(1546006017351, function(require, module, exports) {
+__DEFINE__(1546482538962, function(require, module, exports) {
 var MTA_CONFIG={app_id:"",event_id:"",api_base:"https://pingtas.qq.com/pingd",prefix:"_mta_",version:"1.3.6",stat_share_app:!1,stat_pull_down_fresh:!1,stat_reach_bottom:!1};function getNetworkType(a){wx.getNetworkType({success:function(b){a(b.networkType)}})}function getSystemInfo(){var a=wx.getSystemInfoSync();return{adt:encodeURIComponent(a.model),scl:a.pixelRatio,scr:a.windowWidth+"x"+a.windowHeight,lg:a.language,fl:a.version,jv:encodeURIComponent(a.system),tz:encodeURIComponent(a.platform)}}
 function getUID(){try{return wx.getStorageSync(MTA_CONFIG.prefix+"auid")}catch(a){}}function setUID(){try{var a=getRandom();wx.setStorageSync(MTA_CONFIG.prefix+"auid",a);return a}catch(b){}}function getSID(){try{return wx.getStorageSync(MTA_CONFIG.prefix+"ssid")}catch(a){}}function setSID(){try{var a="s"+getRandom();wx.setStorageSync(MTA_CONFIG.prefix+"ssid",a);return a}catch(b){}}
 function getRandom(a){for(var b=[0,1,2,3,4,5,6,7,8,9],c=10;1<c;c--){var d=Math.floor(10*Math.random()),f=b[d];b[d]=b[c-1];b[c-1]=f}for(c=d=0;5>c;c++)d=10*d+b[c];return(a||"")+(d+""+ +new Date)}function getPagePath(){try{var a=getCurrentPages(),b="/";0<a.length&&(b=a.pop().__route__);return b}catch(c){console.log("get current page path error:"+c)}}
@@ -17,6 +17,6 @@ var MTA={App:{init:function(a){"appID"in a&&(MTA_CONFIG.app_id=a.appID);"eventID
   wx.request({url:MTA_CONFIG.api_base+"?"+b.join("&").toLowerCase()})}}},Event:{stat:function(a,b){if(""!=MTA_CONFIG.event_id){var c=[],d=getMainInfo(),f=getExtentInfo();d.dm="wxapps.click";d.url=a;f.r2=MTA_CONFIG.event_id;var e="undefined"===typeof b?{}:b;var k=[],g;for(g in e)e.hasOwnProperty(g)&&k.push(encodeURIComponent(g)+"="+encodeURIComponent(e[g]));e=k.join(";");f.r5=e;e=0;d=[d,f,getBasicInfo(),{rand:+new Date}];for(f=d.length;e<f;e++)for(var h in d[e])d[e].hasOwnProperty(h)&&c.push(h+"="+("undefined"==
   typeof d[e][h]?"":d[e][h]));wx.request({url:MTA_CONFIG.api_base+"?"+c.join("&").toLowerCase()})}}},Data:{userInfo:null,lanchInfo:null}};module.exports=MTA;
 }, function(modId) {var map = {}; return __REQUIRE__(map[modId], modId); })
-return __REQUIRE__(1546006017351);
+return __REQUIRE__(1546482538962);
 })()
 //# sourceMappingURL=index.js.map
