@@ -72,13 +72,27 @@ Page({
     })
   },
 
-  /**
-   * 页面上拉触底事件的处理函数
-   */
-  onReachBottom: function() {
+  onSubmit:function(event){
 
+    console.log(event.detail.formId)
+    let colors = this.data.color;
+    let colors_rgb = this.data.color_rgb;
+    wx.cloud.callFunction({
+      name:"sendRandomNotify",
+      data:{
+        formId: event.detail.formId,
+        color1: `#${colors.color1}|rgb(${colors_rgb.color1})`,
+        color2: `#${colors.color2}|rgb(${colors_rgb.color2})`,
+        color3: `#${colors.color3}|rgb(${colors_rgb.color3})`,
+        color4: `#${colors.color4}|rgb(${colors_rgb.color4})`
+      }
+    }).then(res => {
+      console.log(res);
+      wx.showToast({
+        title: '发送成功!',
+      })
+    })
   },
-
   /**
    * 用户点击右上角分享
    */

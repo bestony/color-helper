@@ -6,3 +6,15 @@
   background-color: rgba(255,255,255,0.5);
   padding: 0px 10rpx;
 }
+.notify{
+  font-size: 30rpx;
+  position: absolute;
+  right: 0rpx;
+  bottom: 100rpx;
+  color: #fff;
+  background-color: rgba(0,0,0,0.3);
+  border-radius: 0rpx;
+  border-top-left-radius: 10rpx ;
+  border-bottom-left-radius: 10rpx ;
+  /* padding:8rpx; */
+}

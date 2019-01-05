@@ -1,3 +1,6 @@
+<form report-submit="{{true}}" bindsubmit="onSubmit">
+<button class='notify' form-type='submit'>发送到微信</button>
+</form>
 <view class='flow' bindtap='getColor'>
   <block wx:for="{{color}}">
     <view class="item" style='height:{{item_height}}px;background-color:#{{item}};'>
