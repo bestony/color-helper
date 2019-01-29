@@ -1,5 +1,5 @@
+<ad unit-id="adunit-8c87f826a074358c"></ad>
 <view class="navigator-group">
-
 <navigator url="../random/random"><view class="navigator">随机色生成</view></navigator>
 <navigator url="../color_name/color_name"><view class="navigator">常用颜色名</view></navigator>
 <navigator url="../zhongguose/zhongguose"><view class="navigator">中国传统色</view></navigator>
@@ -11,4 +11,3 @@
 <navigator url="../picker/picker"><view class="navigator">选色器</view></navigator>
 <navigator url="../about/about"><view class="navigator">关于</view></navigator>
 </view>
-<ad unit-id="adunit-8c87f826a074358c"></ad>
