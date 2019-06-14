@@ -1,9 +1,9 @@
-<ad unit-id="adunit-8c87f826a074358c"></ad>
 <view class="navigator-group">
 <navigator url="../random/random"><view class="navigator">随机色生成</view></navigator>
 <navigator url="../color_name/color_name"><view class="navigator">常用颜色名</view></navigator>
 <navigator url="../zhongguose/zhongguose"><view class="navigator">中国传统色</view></navigator>
 <navigator url="../social/social"><view class="navigator">社交软件色</view></navigator>
+<ad unit-id="adunit-8c87f826a074358c"></ad>
 <navigator url="../mdcolor/mdcolor"><view class="navigator">Material Design Color</view></navigator>
 <navigator url="../flatui/flatui"><view class="navigator">FlatUI Color</view></navigator>
 <navigator url="../fluentui/fluentui"><view class="navigator">FluentUI Color</view></navigator>
