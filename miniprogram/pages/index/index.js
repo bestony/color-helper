@@ -5,7 +5,7 @@ Page({
    * 页面的初始数据
    */
   data: {
-
+    adHeight:200
   },
 
   /**
@@ -57,6 +57,11 @@ Page({
 
   },
 
+  onCloseAd:function(){
+    this.setData({
+      adHeight:0
+    });
+  },
   /**
    * 用户点击右上角分享
    */
